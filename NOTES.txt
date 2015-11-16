@@ -1,0 +1,5 @@
+REMEMBER TO CHANGE NEWLINE VAR WHEN OPENING FILES.
+TO READ A FILE- ' $/ = "\n"; '
+TO RESET BACK 
+
+- ' $/ = "\r\n"; ' 
